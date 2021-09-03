@@ -26,3 +26,6 @@
 * Antivirus software
 * Program analysis for reverse-engineering and vulnerability research
 * Windows' kernel hacking
+* Automated trading
+
+I have lots of (yet) unpublished stuff, so let's discuss ;)
