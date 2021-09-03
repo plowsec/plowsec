@@ -2,6 +2,12 @@
 
 <hr>
 
+## Current projects
+
+* lsass.exe dumping in every possible way
+* a Binance trading library
+* automated antivirus bypass
+
 ## Stats
 
 <p align="center">
