@@ -4,6 +4,7 @@
 
 ## Current projects
 
+* dataflow analyzers for various programming languages
 * lsass.exe dumping in every possible way
 * a Binance trading library
 * automated antivirus bypass
@@ -26,11 +27,14 @@
 * angr: https://plowsec.github.io/angr-tips-and-tricks.html
 * Automated antivirus evasion (part 1): https://blog.scrt.ch/2020/06/19/engineering-antivirus-evasion/
 * Automated antivirus evasion (part 2): https://blog.scrt.ch/2020/07/15/engineering-antivirus-evasion-part-ii/
+* Automated antivirus evasion (part 3): https://blog.scrt.ch/2022/04/19/3432/
+* Extracting antivirus signatures: https://blog.scrt.ch/2022/04/05/automatically-extracting-static-antivirus-signatures/
+* Statically encrypt strings in a binary with keystone, lief and radare2: https://blog.scrt.ch/2022/04/11/statically-encrypt-strings-in-a-binary-with-keystone-lief-and-radare2-rizin/
 
 ## Interests
 
-* Antivirus software
 * Program analysis for reverse-engineering and vulnerability research
+* Antivirus software
 * Windows' kernel hacking
 * Automated trading
 
