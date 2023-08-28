@@ -37,5 +37,6 @@
 * Antivirus software
 * Windows' kernel hacking
 * Automated trading
+* Making language learning easy for everyone!
 
 I have lots of (yet) unpublished stuff, so let's discuss ;)
